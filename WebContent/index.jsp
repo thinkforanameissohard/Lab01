@@ -72,7 +72,7 @@
                 <h4>01</h4>
                 <h1 class="size-50">Know <br /> About me</h1>
                 <div class="h-50"></div>
-                <p>信1803——饶欣宇</p>
+                <p>信1803——xxx</p>
                 <p>不会唱,也不会跳,更不会rap,web学习时长3个月的个人练习生</p>
                 <div class="h-50"></div> <img src="img/Signature.svg" width="230" alt="" />
                 <div class="h-50"></div>
